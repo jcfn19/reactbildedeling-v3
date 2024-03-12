@@ -1,0 +1,26 @@
+.pictureBox {
+    width: 450px;
+    background-color: #998fc7ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.picture {
+    max-width: 400px;
+    border-radius: 1px;
+}
+
+.pictureUsername {
+    width: 450px;    
+    height: 50px;
+    padding-left: 25px;
+    background-color: #14248aff;
+    color: #f9f5ffff;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+
