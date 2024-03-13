@@ -4,10 +4,7 @@ Dette prosjektet er en modifisert/recreation versjon ut av ett projekt en ut av 
 
 ## hvordan starte appen
 
-for å starte appen må du ha to terminaler oppe en for backend og en for frontend
-PS C:\reactbildedeling v3\backend>,
-PS C:\reactbildedeling v3\frontend>
-etter dette kjører du først node app.js i backend så kjører du npm start i frontend. då vil appen være oppe på http://localhost:5173/app. logg in med brukernavn: test passord: 123.
+for å starte appen må du ha to terminaler oppe en for backend og en for frontend. etter dette kjører du først node app.js i backend så kjører du npm start i frontend. då vil appen være oppe på http://localhost:5173/app. logg in med brukernavn: test passord: 123.
 
 ## hvordan sette opp appen
 
